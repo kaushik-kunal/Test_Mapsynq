@@ -1192,3 +1192,4 @@ C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.csproj.CoreCompileInput
 C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.csproj.CopyComplete
 C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.dll
 C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.csprojAssemblyReference.cache
