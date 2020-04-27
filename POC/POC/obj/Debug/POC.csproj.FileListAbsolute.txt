@@ -1,0 +1,1195 @@
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\nunit.engine.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\nunit.engine.api.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Default.srprofile
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\AutoItX3.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\AutoItX3_x64.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\POC.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\POC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\POC.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\ClosedXML.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\DnsClient.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\EPPlus.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\ExcelNumberFormat.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\ExtentReports.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\FastMember.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Gherkin.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\HtmlAgilityPack.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.Runtime.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Itenso.TimePeriod.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\log4net.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\MongoDB.Bson.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\MongoDB.Driver.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\NetOffice.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\nunit.framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\OfficeApi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\OutlookApi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Protractor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\RazorEngine.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\RestSharp.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Spire.License.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Spire.Pdf.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Buffers.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.IO.Packaging.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.ValueTuple.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Web.Razor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Utf8Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\VBIDEApi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\WebDriver.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\WebDriver.Support.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\stdole.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Microsoft.mshtml.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\ClosedXML.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\ClosedXML.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\DnsClient.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\EPPlus.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\ExcelNumberFormat.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\HtmlAgilityPack.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\log4net.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\MongoDB.Bson.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\MongoDB.Driver.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\NetOffice.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\nunit.framework.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\nunit.framework.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\OfficeApi.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\OutlookApi.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Protractor.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Protractor.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\RestSharp.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Spire.License.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Spire.Pdf.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\System.ValueTuple.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\Utf8Json.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\VBIDEApi.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\WebDriver.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\bin\Debug\WebDriver.Support.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\obj\Debug\POC.csproj.App.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\obj\Debug\POC.csprojAssemblyReference.cache
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\obj\Debug\POC.csproj.CoreCompileInputs.cache
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\obj\Debug\POC.csproj.CopyComplete
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\obj\Debug\POC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan\POC\POC\obj\Debug\POC.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\nunit.engine.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\nunit.engine.api.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Default.srprofile
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\AutoItX3.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\AutoItX3_x64.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\ClosedXML.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\DnsClient.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\EPPlus.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\ExcelNumberFormat.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\ExtentReports.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\FastMember.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Gherkin.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\HtmlAgilityPack.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.Runtime.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Itenso.TimePeriod.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\log4net.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\MongoDB.Bson.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\MongoDB.Driver.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\NetOffice.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\nunit.framework.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\OfficeApi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\OutlookApi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Protractor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\RazorEngine.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\RestSharp.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Spire.License.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Spire.Pdf.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Buffers.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.IO.Packaging.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.ValueTuple.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Web.Razor.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Utf8Json.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\VBIDEApi.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\WebDriver.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\WebDriver.Support.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\stdole.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Microsoft.mshtml.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\ClosedXML.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\ClosedXML.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\DnsClient.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\EPPlus.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\ExcelNumberFormat.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\HtmlAgilityPack.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\log4net.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\MongoDB.Bson.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\MongoDB.Driver.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\NetOffice.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\nunit.framework.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\nunit.framework.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\OfficeApi.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\OutlookApi.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Protractor.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Protractor.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\RestSharp.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Spire.License.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Spire.Pdf.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\System.ValueTuple.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\Utf8Json.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\VBIDEApi.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\WebDriver.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\WebDriver.Support.xml
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\obj\Debug\POC.csproj.App.config
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\obj\Debug\POC.csproj.CoreCompileInputs.cache
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\obj\Debug\POC.csproj.CopyComplete
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\obj\Debug\POC.dll
+C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\obj\Debug\POC.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\nunit.engine.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\nunit.engine.api.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\BoDi.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\FSharp.Core.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Default.srprofile
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\AutoItX3.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\AutoItX3_x64.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\POC.dll.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\POC.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\POC.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\ClosedXML.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\DnsClient.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\EPPlus.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\ExcelNumberFormat.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\ExtentReports.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\FastMember.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Gherkin.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\HtmlAgilityPack.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.Runtime.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Itenso.TimePeriod.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\log4net.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\MongoDB.Bson.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\MongoDB.Driver.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\NetOffice.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\nunit.framework.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\OfficeApi.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\OutlookApi.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Protractor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\RazorEngine.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\RestSharp.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Spire.License.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Spire.Pdf.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Buffers.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.IO.Packaging.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.ValueTuple.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Web.Razor.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Utf8Json.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\VBIDEApi.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\WebDriver.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\WebDriver.Support.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\stdole.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Microsoft.mshtml.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\ClosedXML.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\ClosedXML.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\DnsClient.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\EPPlus.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\ExcelNumberFormat.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\HtmlAgilityPack.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\log4net.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\MongoDB.Bson.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\MongoDB.Driver.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\NetOffice.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\nunit.framework.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\nunit.framework.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\OfficeApi.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\OutlookApi.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Protractor.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Protractor.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\RestSharp.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Spire.License.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Spire.Pdf.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\System.ValueTuple.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\Utf8Json.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\VBIDEApi.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\WebDriver.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\bin\Debug\WebDriver.Support.xml
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\obj\Debug\POC.csproj.App.config
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\obj\Debug\POC.csprojAssemblyReference.cache
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\obj\Debug\POC.csproj.CoreCompileInputs.cache
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\obj\Debug\POC.csproj.CopyComplete
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\obj\Debug\POC.dll
+C:\Users\KAKUNAL\Desktop\MapSynq\POC\POC\obj\Debug\POC.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\nunit.engine.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\nunit.engine.api.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\BoDi.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\CommandLine.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\FSharp.Core.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Data.Services.Client.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Microsoft.Web.Publishing.Tasks.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\RazorEngine.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\RestSharp.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Core.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Castle.Windsor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\EntityFramework.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Common.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Http.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.HttpEnhancements.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.Serialization.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ApplicationServer.ServiceModel.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Net.Http.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.QueryComposition.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.Runtime.Serialization.Json.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Microsoft.ServiceModel.Web.jQuery.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\NConsoler.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.Contracts.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.CommandService.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Config.Windsor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.EventBus.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Ncqrs.Eventing.Sourcing.Snapshotting.DynamicSnapshot.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\NLog.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\SpecRun.Server.exe.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Model.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\server\TechTalk.SpecRun.Server.Service.exe.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Runner.Reporting.exe.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRun.exe.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile.xsd
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\SpecRunTestProfile_2011_09.xsd
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\System.Web.Razor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.AnyCPU.clr40.exe.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Executor.x86.clr40.exe.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.CommandClient.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.Commands.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.Server.ReadModelClient.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\net45\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\BoDi.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\FSharp.Core.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Memory.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.AccessControl.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\System.Security.Principal.Windows.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_0.runtimeconfig.json
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_0.runtimeconfig.json
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.0\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\BoDi.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\FSharp.Core.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_1.runtimeconfig.json
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_1.runtimeconfig.json
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.1\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\BoDi.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\FSharp.Core.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Threading.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Microsoft.VisualStudio.Validation.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Configuration.ConfigurationManager.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Cryptography.ProtectedData.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\System.Security.Permissions.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Common.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.anycpu.netcoreapp2_2.runtimeconfig.json
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Executor.x86.netcoreapp2_2.runtimeconfig.json
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlowPlusRunner\netcoreapp2.2\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\BoDi.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecFlow.Plus.Shared.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.Interfaces.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.Framework.Utils.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecFlow.Plus.RPC.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\StreamJsonRpc.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\FSharp.Core.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Default.srprofile
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\AutoItX3.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\AutoItX3_x64.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\POC.dll.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\POC.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\POC.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\AutoItX3.Assembly.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\ClosedXML.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\DnsClient.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\EPPlus.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\ExcelNumberFormat.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\ExtentReports.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\FastMember.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Gherkin.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\HtmlAgilityPack.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.AWT.WinForms.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Beans.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Charsets.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Cldrdata.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Corba.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Jdbc.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Localedata.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Management.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Media.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Misc.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Naming.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Nashorn.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Remoting.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Security.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.SwingAWT.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Text.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Tools.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.Util.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.API.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Bind.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Crypto.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Parse.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.Transform.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.WebServices.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.OpenJDK.XML.XPath.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.Runtime.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\IKVM.Runtime.JNI.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Itenso.TimePeriod.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\log4net.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\MongoDB.Bson.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\MongoDB.Driver.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\NetOffice.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\nunit.framework.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\OfficeApi.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\OutlookApi.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Protractor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\RazorEngine.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\RestSharp.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Spire.License.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Spire.Pdf.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Buffers.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.IO.Packaging.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.ValueTuple.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Web.Razor.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Utf8Json.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\VBIDEApi.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\WebDriver.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\WebDriver.Support.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\stdole.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Microsoft.mshtml.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\AutoItX3.Assembly.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\ClosedXML.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\ClosedXML.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\DnsClient.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\EPPlus.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\ExcelNumberFormat.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\HtmlAgilityPack.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\log4net.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\MongoDB.Bson.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\MongoDB.Driver.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\NetOffice.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\nunit.framework.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\nunit.framework.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\OfficeApi.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\OutlookApi.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Protractor.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Protractor.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\RestSharp.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Spire.License.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Spire.Pdf.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\System.ValueTuple.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecFlow.pdb
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\Utf8Json.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\VBIDEApi.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\WebDriver.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\WebDriver.Support.xml
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.csproj.App.config
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.csprojAssemblyReference.cache
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.csproj.CoreCompileInputs.cache
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.csproj.CopyComplete
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.dll
+C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\obj\Debug\POC.pdb

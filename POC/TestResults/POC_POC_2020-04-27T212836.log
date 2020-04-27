@@ -1,0 +1,10 @@
+﻿2020-04-27T21:28:36.5645160+08:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-27T21:28:36.5645160+08:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2020-04-27T21:28:36.5645160+08:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-27T21:28:36.8985132+08:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll
+2020-04-27T21:28:36.8985132+08:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\TestResults" (default)
+2020-04-27T21:28:36.8985132+08:00;VSTestExecutionThread;Info;Profile: POC
+2020-04-27T21:28:36.9345160+08:00;VSTestExecutionThread;Info;Log file path: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\TestResults\POC_POC_2020-04-27T212836.log
+2020-04-27T21:28:36.9455134+08:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-04-27T21:28:36.9565803+08:00;Thread#13;Info;Checking license
+2020-04-27T21:28:36.9785720+08:00;Thread#13;Info;Evaluation mode: test execution starts in 13 seconds... (this delay is removed in the registered version)

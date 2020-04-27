@@ -1,0 +1,40 @@
+﻿2020-04-27T21:46:11.6810389+08:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-27T21:46:11.6810389+08:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2020-04-27T21:46:11.6810389+08:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-27T21:46:12.1065791+08:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll
+2020-04-27T21:46:12.1075667+08:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\TestResults" (default)
+2020-04-27T21:46:12.1075667+08:00;VSTestExecutionThread;Info;Profile: POC
+2020-04-27T21:46:12.1514586+08:00;VSTestExecutionThread;Info;Log file path: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\TestResults\POC_POC_2020-04-27T214612.log
+2020-04-27T21:46:12.1644562+08:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-04-27T21:46:12.1754598+08:00;Thread#13;Info;Checking license
+2020-04-27T21:46:12.1964149+08:00;Thread#13;Info;Evaluation mode: test execution starts in 9 seconds... (this delay is removed in the registered version)
+2020-04-27T21:46:21.2018699+08:00;Thread#13;Info;Evaluation delay finished.
+2020-04-27T21:46:21.2125151+08:00;Thread#13;Info;License check completed
+2020-04-27T21:46:21.2125151+08:00;Thread#13;Info;starting test run
+2020-04-27T21:46:21.2403672+08:00;Thread#13;Info;Discovering target: Default
+2020-04-27T21:46:21.2403672+08:00;Thread#13;Info;Discovering tests from assembly: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll
+2020-04-27T21:46:21.9609148+08:00:Appdomain Disposed
+2020-04-27T21:46:21.9609148+08:00;Thread#13;Info;Discovered tests from assembly: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll
+2020-04-27T21:46:21.9616777+08:00:Test Suite Dump
+2020-04-27T21:46:21.9635609+08:00:#0: POC/POC - 
+2020-04-27T21:46:21.9635609+08:00:#1: Default - 
+2020-04-27T21:46:21.9635609+08:00:#2: POC - 
+2020-04-27T21:46:21.9635609+08:00:#3: HomePage-TC-001 - 
+2020-04-27T21:46:22.0081824+08:00:#4: Incident Location Search based on Area Name, "Jurong" - TestAssembly:POC/Feature:HomePage-TC-001/Scenario:Incident+Location+Search+based+on+Area+Name%2c+%22Jurong%22
+2020-04-27T21:46:22.0081824+08:00:End: Test Suite Dump
+2020-04-27T21:46:22.0351376+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-27T21:46:22.0371800+08:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-04-27T21:46:22.0371800+08:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-04-27T21:46:22.0411744+08:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-27T21:46:22.0411744+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-04-27T21:46:22.0411744+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-04-27T21:46:22.0411744+08:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-04-27T21:46:22.0422791+08:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-04-27T21:46:22.0431747+08:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-27T21:46:22.0451784+08:00:Thread #0: creating new test thread executor for POC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-27T21:46:22.0481394+08:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-27T21:46:22.0481394+08:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-27T21:46:22.0481394+08:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-04-27T21:46:22.2723225+08:00:Thread#0: Test #4/0 is started on thread #0
+2020-04-27T21:46:22.5852810+08:00:Thread#0:T:-> Loading plugin C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-04-27T21:46:22.6130847+08:00:Thread#0:T:-> Using default config

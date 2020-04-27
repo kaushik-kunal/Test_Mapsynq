@@ -1,0 +1,75 @@
+﻿2020-04-27T23:45:25.0586190+08:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-27T23:45:25.0586190+08:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2020-04-27T23:45:25.0586190+08:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-27T23:45:25.4053457+08:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\POC.dll
+2020-04-27T23:45:25.4053457+08:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\KAKUNAL\Downloads\MapSynq\POC\TestResults" (default)
+2020-04-27T23:45:25.4053457+08:00;VSTestExecutionThread;Info;Profile: POC
+2020-04-27T23:45:25.4395674+08:00;VSTestExecutionThread;Info;Log file path: C:\Users\KAKUNAL\Downloads\MapSynq\POC\TestResults\POC_POC_2020-04-27T234525.log
+2020-04-27T23:45:25.4494570+08:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-04-27T23:45:25.4545460+08:00;Thread#14;Info;Checking license
+2020-04-27T23:45:25.4688763+08:00;Thread#14;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2020-04-27T23:45:36.4692109+08:00;Thread#14;Info;Evaluation delay finished.
+2020-04-27T23:45:36.4853090+08:00;Thread#14;Info;License check completed
+2020-04-27T23:45:36.4853090+08:00;Thread#14;Info;starting test run
+2020-04-27T23:45:36.5162475+08:00;Thread#14;Info;Discovering target: Default
+2020-04-27T23:45:36.5171123+08:00;Thread#14;Info;Discovering tests from assembly: C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\POC.dll
+2020-04-27T23:45:36.8756853+08:00:Appdomain Disposed
+2020-04-27T23:45:36.8756853+08:00;Thread#14;Info;Discovered tests from assembly: C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\POC.dll
+2020-04-27T23:45:36.8766624+08:00:Test Suite Dump
+2020-04-27T23:45:36.8785593+08:00:#0: POC/POC - 
+2020-04-27T23:45:36.8785593+08:00:#1: Default - 
+2020-04-27T23:45:36.8785593+08:00:#2: POC - 
+2020-04-27T23:45:36.8785593+08:00:#3: HomePage-TC-001 - 
+2020-04-27T23:45:36.9145084+08:00:#4: Incident Location Search based on Area Name, "Jurong" - TestAssembly:POC/Feature:HomePage-TC-001/Scenario:Incident+Location+Search+based+on+Area+Name%2c+%22Jurong%22
+2020-04-27T23:45:36.9145084+08:00:End: Test Suite Dump
+2020-04-27T23:45:36.9376707+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-27T23:45:36.9390685+08:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-04-27T23:45:36.9396860+08:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-04-27T23:45:36.9438449+08:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-27T23:45:36.9438449+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-04-27T23:45:36.9438449+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-04-27T23:45:36.9438449+08:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-04-27T23:45:36.9448176+08:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-04-27T23:45:36.9458174+08:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-27T23:45:36.9478233+08:00:Thread #0: creating new test thread executor for POC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-27T23:45:36.9498253+08:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-27T23:45:36.9508290+08:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-27T23:45:36.9508290+08:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-04-27T23:45:37.0456392+08:00:Thread#0: Test #4/0 is started on thread #0
+2020-04-27T23:45:37.3075696+08:00:Thread#0:T:-> Loading plugin C:\Users\KAKUNAL\Downloads\MapSynq\POC\POC\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-04-27T23:45:37.3196952+08:00:Thread#0:T:-> Using default config
+2020-04-27T23:45:38.9246361+08:00:Thread#0:B:Given I am on MapSynq Home screen
+2020-04-27T23:45:46.5998012+08:00:Thread#0:T:done: LoginVerification.GivenIAmOnMapSynqHomeScreen() (7.6s)
+2020-04-27T23:45:46.6350847+08:00:Thread#0:B:When I input "Jurong" in Incident Location text field
+2020-04-27T23:45:47.4652370+08:00:Thread#0:T:done: LoginVerification.WhenIInputInIncidentLocationTextField("Jurong") (0.8s)
+2020-04-27T23:45:47.4669930+08:00:Thread#0:B:And I Select Date as "Today" from the dropdown
+2020-04-27T23:45:48.1329472+08:00:Thread#0:T:done: LoginVerification.WhenISelectDateAsFromTheDropdown("Today") (0.7s)
+2020-04-27T23:45:48.1335026+08:00:Thread#0:B:Then I see entries of the incidents based on the Area name provided along with Time in HH:MM format
+2020-04-27T23:45:48.7514757+08:00:Thread#0:T:done: LoginVerification.ThenISeeEntriesOfTheIncidentsBasedOnTheAreaNameProvidedAlongWithTimeInHHMMFormat() (0.6s)
+2020-04-27T23:45:48.7614754+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-27T23:45:48.7614754+08:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-27T23:45:48.7614754+08:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-27T23:45:48.7614754+08:00:Thread#0:Scheduler: No more tests for thread
+2020-04-27T23:46:00.8277726+08:00:Thread#0: Test #4/0 is finished on thread #0 as CleanupFailed within 23.7811007 seconds
+2020-04-27T23:46:01.0053078+08:00:Appdomain Disposed
+2020-04-27T23:46:01.0073103+08:00:Trying to cancel thread
+2020-04-27T23:46:01.0073103+08:00:Thread cancelled
+2020-04-27T23:46:01.0144049+08:00:Thread#-1:Scheduler: get next test for thread -1
+2020-04-27T23:46:01.0144049+08:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-27T23:46:01.0144049+08:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-27T23:46:01.0174070+08:00;Thread#14;Info;test run finished
+2020-04-27T23:46:01.0174070+08:00;Thread#14;Info;publishing test results
+2020-04-27T23:46:01.1320202+08:00;Thread#14;Info;test results published
+2020-04-27T23:46:01.1320202+08:00;Thread#14;Info;generating reports
+2020-04-27T23:46:01.2369148+08:00;Thread#14;Info;Starting external report generation process
+2020-04-27T23:46:03.5830960+08:00;Thread#14;Info;Successfully generated reports.
+2020-04-27T23:46:03.5850908+08:00;Thread#14;Info;Successfully generated reports
+2020-04-27T23:46:03.5932677+08:00:Total: 1
+2020-04-27T23:46:03.5950910+08:00:Succeeded: 0
+2020-04-27T23:46:03.5950910+08:00:Ignored: 0
+2020-04-27T23:46:03.5960891+08:00:Pending: 0
+2020-04-27T23:46:03.5960891+08:00:Skipped: 0
+2020-04-27T23:46:03.5960891+08:00:Failed: 1
+2020-04-27T23:46:03.6082263+08:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-27T23:46:03.6082263+08:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\KAKUNAL\Downloads\MapSynq\POC\TestResults\POC_POC_2020-04-27T234525.html'
+========== End of log file ==========

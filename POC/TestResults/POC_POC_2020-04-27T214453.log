@@ -1,0 +1,69 @@
+﻿2020-04-27T21:44:53.3361336+08:00;VSTestExecutionThread;Info;SpecFlow+Runner execution started
+2020-04-27T21:44:53.3361336+08:00;VSTestExecutionThread;Info;SpecFlow+Runner 3.0.352 in Framework clr40 in x86 mode execution started
+2020-04-27T21:44:53.3361336+08:00;VSTestExecutionThread;Info;TestAdapter Location: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\TechTalk.SpecRun.VisualStudio.TestAdapter.dll
+2020-04-27T21:44:53.6641559+08:00;VSTestExecutionThread;Info;SpecRun: running tests in C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll
+2020-04-27T21:44:53.6641559+08:00;VSTestExecutionThread;Info;Output folder configured to "C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\TestResults" (default)
+2020-04-27T21:44:53.6641559+08:00;VSTestExecutionThread;Info;Profile: POC
+2020-04-27T21:44:53.6955680+08:00;VSTestExecutionThread;Info;Log file path: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\TestResults\POC_POC_2020-04-27T214453.log
+2020-04-27T21:44:53.7052791+08:00;VSTestExecutionThread;Info;SpecFlow+Runner Evaluation Mode: Please purchase at http://www.specflow.org/plus to remove test execution delay.
+2020-04-27T21:44:53.7172388+08:00;Thread#13;Info;Checking license
+2020-04-27T21:44:53.7433998+08:00;Thread#13;Info;Evaluation mode: test execution starts in 11 seconds... (this delay is removed in the registered version)
+2020-04-27T21:45:04.7479655+08:00;Thread#13;Info;Evaluation delay finished.
+2020-04-27T21:45:04.7567511+08:00;Thread#13;Info;License check completed
+2020-04-27T21:45:04.7577510+08:00;Thread#13;Info;starting test run
+2020-04-27T21:45:04.7935967+08:00;Thread#13;Info;Discovering target: Default
+2020-04-27T21:45:04.7935967+08:00;Thread#13;Info;Discovering tests from assembly: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll
+2020-04-27T21:45:05.5205876+08:00:Appdomain Disposed
+2020-04-27T21:45:05.5205876+08:00;Thread#13;Info;Discovered tests from assembly: C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\POC.dll
+2020-04-27T21:45:05.5214811+08:00:Test Suite Dump
+2020-04-27T21:45:05.5245141+08:00:#0: POC/POC - 
+2020-04-27T21:45:05.5245141+08:00:#1: Default - 
+2020-04-27T21:45:05.5245141+08:00:#2: POC - 
+2020-04-27T21:45:05.5245141+08:00:#3: HomePage-TC-001 - 
+2020-04-27T21:45:05.5632320+08:00:#4: Incident Location Search based on Area Name, "Jurong" - TestAssembly:POC/Feature:HomePage-TC-001/Scenario:Incident+Location+Search+based+on+Area+Name%2c+%22Jurong%22
+2020-04-27T21:45:05.5632320+08:00:End: Test Suite Dump
+2020-04-27T21:45:05.5875004+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-27T21:45:05.5905331+08:00:Thread#:Scheduler: testitem #4 from normal test queue 
+2020-04-27T21:45:05.5905331+08:00:Thread#0:Scheduler: considering testitem #4 for thread 0
+2020-04-27T21:45:05.5955331+08:00:Thread#0:TestItem#4:testItemMatchesCurrentTestThread:UnSpecific
+2020-04-27T21:45:05.5955331+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadSpecific:False
+2020-04-27T21:45:05.5955331+08:00:Thread#0:TestItem#4:runsOnOneOtherThreadUnspecific:False
+2020-04-27T21:45:05.5955331+08:00:Thread#0:Scheduler: using testitem #4 for thread 0
+2020-04-27T21:45:05.5965359+08:00:Thread#0:Scheduler: Test #4 is scheduled for thread
+2020-04-27T21:45:05.5975327+08:00:Thread#0:Scheduler: with testItemExecutionIndex 0
+2020-04-27T21:45:05.5994984+08:00:Thread #0: creating new test thread executor for POC, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null (target: Default)
+2020-04-27T21:45:05.6015347+08:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-27T21:45:05.6015347+08:00:Thread #0: Creating test assembly executor for execution model AppDomain
+2020-04-27T21:45:05.6025408+08:00:using TechTalk.SpecRun.Framework.Execution.InProcess.InProcAppDomainTestAssemblyExecutorHost to execute tests
+2020-04-27T21:45:05.8134764+08:00:Thread#0: Test #4/0 is started on thread #0
+2020-04-27T21:45:06.1263163+08:00:Thread#0:T:-> Loading plugin C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\POC\bin\Debug\SpecRun.Runtime.SpecFlowPlugin.dll
+2020-04-27T21:45:06.2599312+08:00:Thread#0:T:-> Using default config
+2020-04-27T21:45:06.5439433+08:00:Thread#0:T:-> error: The type initializer for 'POC.Steps.Infinite.InfiniteRussiaFirstStep' threw an exception.
+2020-04-27T21:45:06.6333428+08:00:Thread#0:Scheduler: get next test for thread 0
+2020-04-27T21:45:06.6333428+08:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-27T21:45:06.6333428+08:00:Thread#0:Scheduler: enumerator for thread is at end
+2020-04-27T21:45:06.6333428+08:00:Thread#0:Scheduler: No more tests for thread
+2020-04-27T21:45:06.6573269+08:00:Thread#0:T:-> error: The type initializer for 'POC.Steps.Infinite.InfiniteRussiaFirstStep' threw an exception.
+2020-04-27T21:45:06.7023514+08:00:Thread#0: Test #4/0 is finished on thread #0 as InitializationFailed within 0.888875 seconds
+2020-04-27T21:45:06.8432230+08:00:Appdomain Disposed
+2020-04-27T21:45:06.8462081+08:00:Trying to cancel thread
+2020-04-27T21:45:06.8462081+08:00:Thread cancelled
+2020-04-27T21:45:06.8554587+08:00:Thread#-1:Scheduler: get next test for thread -1
+2020-04-27T21:45:06.8554587+08:00:Thread#:Scheduler: at the end of normal test queue
+2020-04-27T21:45:06.8554587+08:00:Thread#-1:Scheduler: enumerator for thread is at end
+2020-04-27T21:45:06.8582412+08:00;Thread#13;Info;test run finished
+2020-04-27T21:45:06.8582412+08:00;Thread#13;Info;publishing test results
+2020-04-27T21:45:07.0552051+08:00;Thread#13;Info;test results published
+2020-04-27T21:45:07.0552051+08:00;Thread#13;Info;generating reports
+2020-04-27T21:45:07.1542828+08:00;Thread#13;Info;Starting external report generation process
+2020-04-27T21:45:09.1921829+08:00;Thread#13;Info;Successfully generated reports.
+2020-04-27T21:45:09.1941852+08:00;Thread#13;Info;Successfully generated reports
+2020-04-27T21:45:09.2042275+08:00:Total: 1
+2020-04-27T21:45:09.2062287+08:00:Succeeded: 0
+2020-04-27T21:45:09.2068882+08:00:Ignored: 0
+2020-04-27T21:45:09.2072164+08:00:Pending: 0
+2020-04-27T21:45:09.2072164+08:00:Skipped: 0
+2020-04-27T21:45:09.2072164+08:00:Failed: 1
+2020-04-27T21:45:09.2178087+08:00;VSTestExecutionThread;Info;Adding attachments to VSTest
+2020-04-27T21:45:09.2178087+08:00;VSTestExecutionThread;Info;adding Test Execution Report 'C:\Users\KAKUNAL\Desktop\Russia_UAT_2Jan - Copy\POC\TestResults\POC_POC_2020-04-27T214453.html'
+========== End of log file ==========
