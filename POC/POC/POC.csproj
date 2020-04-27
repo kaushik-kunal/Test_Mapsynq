@@ -438,16 +438,6 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Feature\Home\INF-5205.feature.cs" />
-    <Compile Include="Feature\Home\INF-5206.feature.cs" />
-    <Compile Include="Feature\Home\INF-5209.feature.cs" />
-    <Compile Include="Feature\Home\INF-5210.feature.cs" />
-    <Compile Include="Feature\Home\INF-5211.feature.cs" />
-    <Compile Include="Feature\Home\INF-5212.feature.cs" />
-    <Compile Include="Feature\Home\INF-5336.feature.cs" />
-    <Compile Include="Feature\Home\INF-5337.feature.cs" />
-    <Compile Include="Feature\Home\INF-5338.feature.cs" />
-    <Compile Include="Feature\Home\INF-5339.feature.cs" />
     <Compile Include="Pages\Home\MapSynqHomePage.cs" />
     <Compile Include="Report\BaseReport.cs" />
     <Compile Include="Report\Hooks.cs" />
@@ -467,17 +457,7 @@
     <None Include="app.config" />
     <None Include="Config\Data.properties" />
     <None Include="Default.srprofile" />
-    <None Include="Feature\Home\INF-5205.feature" />
-    <None Include="Feature\Home\INF-5206.feature" />
-    <None Include="Feature\Home\INF-5209.feature" />
-    <None Include="Feature\Home\INF-5210.feature" />
-    <None Include="Feature\Home\INF-5211.feature" />
-    <None Include="Feature\Home\INF-5212.feature" />
-    <None Include="Feature\Home\INF-5336.feature" />
-    <None Include="Feature\Home\INF-5337.feature" />
-    <None Include="Feature\Home\INF-5338.feature" />
-    <None Include="Feature\Home\INF-5339.feature" />
-    <None Include="Feature\TC-001.feature" />
+    <None Include="Feature\Home\TC-001.feature" />
     <None Include="log4net.config" />
     <None Include="packages.config" />
     <None Include="Quote.json" />

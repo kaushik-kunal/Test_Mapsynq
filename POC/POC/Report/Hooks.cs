@@ -2,20 +2,11 @@
 using AventStack.ExtentReports.Gherkin.Model;
 using AventStack.ExtentReports.Reporter;
 using NUnit.Framework;
-using OfficeOpenXml;
 using POC.Utility;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.IO;
-using System.IO.Compression;
-using System.Linq;
-using System.Net;
-using System.Net.Http;
-using System.Net.Http.Headers;
 using System.Reflection;
-using System.Text;
-using System.Text.RegularExpressions;
 using TechTalk.SpecFlow;
 
 namespace POC.Report
@@ -41,11 +32,11 @@ namespace POC.Report
         static string tempKeyTimeSt = "";
 
 
-
         [BeforeTestRun]
         [Obsolete]
         public static void StartReport()
         {
+
             Properties.loadProperties(@"..\POC\Config\Data.properties");
 
 
@@ -61,15 +52,12 @@ namespace POC.Report
             extent = new ExtentReports();
             extent.AttachReporter(htmlReporter);
 
-
             extent.CreateTest("IGNORE");
 
-            extent.AddSystemInfo("Host Name", "MapSynq");
+            extent.AddSystemInfo("Host Name", "Automation");
             extent.AddSystemInfo("Environment", "QA");
             extent.AddSystemInfo("User Name", "Kunal");
             htmlReporter.LoadConfig(@"..\POC\extent-config.xml");
-
-
 
         }
 
@@ -86,6 +74,11 @@ namespace POC.Report
             writer.Close();
 
             SeleniumHelper.driverManager.getIWebDriver().Quit();
+            HTMLUpdate();
+   
+
+
+
         }
 
 
@@ -104,6 +97,7 @@ namespace POC.Report
             writer.Close();
 
         }
+
 
 
         [AfterScenario]
@@ -230,7 +224,7 @@ namespace POC.Report
 
             Hooks.extent.Flush();
             Hooks.extentLog.Flush();
-            
+            // SeleniumHelper.driverManager.quitDriver();
         }
 
 

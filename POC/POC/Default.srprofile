@@ -26,6 +26,5 @@
       </ConfigFileTransformation>-->
 		</Steps>
 	</DeploymentTransformation>
-  <!--<Filter>@INF-5206|@INF-5048|@INF-5212|@Fixed</Filter>-->
   <Filter>@TC-001</Filter>
 </TestProfile>

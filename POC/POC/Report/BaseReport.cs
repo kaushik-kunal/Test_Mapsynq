@@ -1,10 +1,6 @@
 ﻿using NUnit.Framework;
 using AventStack.ExtentReports;
 using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using AventStack.ExtentReports.Reporter;
 
 namespace POC.Report
@@ -28,30 +24,13 @@ namespace POC.Report
             htmlReporter = new ExtentHtmlReporter(reportPath);
             extent = new ExtentReports();
             extent.AttachReporter(htmlReporter);
-            extent.AddSystemInfo("Host Name", "Joe Loyzaga");
+            extent.AddSystemInfo("Host Name", "Kunal");
             extent.AddSystemInfo("Environment", "QA");
-            extent.AddSystemInfo("User Name", "Joe Loyzaga");
+            extent.AddSystemInfo("User Name", "Kunal");
             htmlReporter.LoadConfig(projectPath + "extent-config.xml");
          }
 
-        //[Test]
-        //public void DemoReportPass()
-        //{
-        //    test = extent.CreateTest("DemoReportPass");
-        //    Assert.IsTrue(true);
-        //    test.Pass("Test passed");
-        //}
 
-        //[Test]
-        //public void DemoReportFail()
-        //{
-        //   // test = extent.CreateTest("DemoReportFail");
-        //   // Assert.IsTrue(false);
-        //   // test.Fail("Test failed");
-
-        //}
-
-      //  [TearDown]
         public void GetResult()
         {
             var status = TestContext.CurrentContext.Result.Outcome.Status;

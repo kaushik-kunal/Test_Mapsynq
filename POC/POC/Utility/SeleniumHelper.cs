@@ -1,21 +1,13 @@
-﻿using AutoIt;
-using AventStack.ExtentReports;
-using OpenQA.Selenium;
-using OpenQA.Selenium.Interactions;
+﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Support.UI;
-using POC.Pages;
 using Protractor;
 using System;
 using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
 
 namespace POC.Utility
 {
-   static  class SeleniumHelper
+    static  class SeleniumHelper
     {
         public static DriverManager driverManager;
 
